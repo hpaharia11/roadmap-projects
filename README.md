@@ -5,6 +5,9 @@ It is based on the lightweight Alpine Linux image.
 Here is the project URL:
 https://github.com/hpaharia11/Roadmap-projects/
 
+Project URL
+This is a local Docker project from the roadmap.sh, You can find the project details https://roadmap.sh/projects/basic-dockerfile.
+
 ## Usage
 
 1. **Build the Docker image**
