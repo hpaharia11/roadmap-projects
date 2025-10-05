@@ -1,2 +1,2 @@
 FROM alphine:latest
-echo "Hello, Captain!"
+CMD echo "Hello, Captain!"
